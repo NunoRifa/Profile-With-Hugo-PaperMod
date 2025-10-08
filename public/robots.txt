@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nunorifa.netlify.app/sitemap.xml

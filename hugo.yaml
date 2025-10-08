@@ -1,0 +1,77 @@
+baseURL: https://nunorifa.netlify.app/
+languageCode: en-us
+title: Nuno Rigo Fadilah
+copyright: "© 2025 [Nuno Rigo Fadilah](https://github.com/nunorifa)"
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  title: Nuno Rigo Fadilah
+  description: "Situs ini berisi informasi tentang saya. kebanyakan adalah dokumentasi untuk saya pribadi ketika sedang belajar atau membagikan sesuatu."
+  # author: Nuno Rigo Fadilah
+  keywords: [Blog, Portfolio, PaperMod]
+  
+  defaultTheme: auto
+  displayFullLangName: true
+  # disableThemeToggle: true
+  # ShowReadingTime: true
+  # ShowShareButtons: true
+  ShowPostNavLinks: true
+  # ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  # ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  TocOpen: true
+
+  comments: false
+  hidemeta: false
+  hideSummary: false
+
+  homeInfoParams:
+    Title: "Halo 👋, Saya Nuno"
+    Content: "Situs ini adalah catatan perjalanan saya dalam belajar dan bereksperimen. Sebagian besar berisi dokumentasi pribadi, tapi saya berharap beberapa di antaranya juga bisa membantu atau menginspirasi orang lain."
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/nunorifa"
+    - name: "instagram"
+      url: "https://instagram.com/nuno.rifa_"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/nuno-rifa"
+
+menu:
+  main:
+    - name: "About"
+      url: "/about"
+    - name: "Tags"
+      url: "/tags"
