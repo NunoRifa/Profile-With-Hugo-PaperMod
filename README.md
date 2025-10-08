@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c0d8ef44-29ba-4ff6-8a82-04590f89c8ad/deploy-status)](https://app.netlify.com/projects/nunorifa/deploys)
 
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/d9f62d7e-fd76-4942-b55a-e00a47910864" />
+
 Ini adalah **website pribadi** saya — dibangun menggunakan [Hugo](https://gohugo.io/) dengan tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod), dan di-*deploy* melalui [Netlify](https://www.netlify.com/).
 
 Website ini berisi dokumentasi pribadi, catatan pembelajaran, serta tulisan seputar pengembangan web dan cybersecurity.
