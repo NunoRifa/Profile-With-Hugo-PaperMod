@@ -23,14 +23,26 @@
     <loc>https://nunorifa.netlify.app/tags/tools/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</loc>
+    <loc>https://nunorifa.netlify.app/categories/tutorial/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/categories/golang/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/categories/tutorial/</loc>
+    <loc>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nunorifa.netlify.app/categories/web/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/categories/automation/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/categories/python/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nunorifa.netlify.app/categories/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
@@ -42,9 +54,6 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nunorifa.netlify.app/tags/web-static/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/posts/web_3/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nunorifa.netlify.app/posts/web_4/</loc>

@@ -19,8 +19,15 @@
     <item>
       <title>Tutorial</title>
       <link>https://nunorifa.netlify.app/categories/tutorial/</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://nunorifa.netlify.app/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>https://nunorifa.netlify.app/categories/golang/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.netlify.app/categories/golang/</guid>
       <description></description>
     </item>
     <item>
@@ -28,6 +35,20 @@
       <link>https://nunorifa.netlify.app/categories/web/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://nunorifa.netlify.app/categories/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://nunorifa.netlify.app/categories/automation/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.netlify.app/categories/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://nunorifa.netlify.app/categories/python/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.netlify.app/categories/python/</guid>
       <description></description>
     </item>
     <item>

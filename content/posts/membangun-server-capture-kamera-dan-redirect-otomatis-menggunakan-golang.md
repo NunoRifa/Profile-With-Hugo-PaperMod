@@ -6,7 +6,7 @@ description: "Tutorial membangun server Golang yang menampilkan landing page, me
 summary: "Langkah demi langkah membuat server Golang yang mengambil foto pengguna lewat browser, mengonversi gambar base64, mengambil IP publik & lokasi via IP2Location, lalu mengirimkan foto dan data lokasi ke Telegram Bot. Termasuk contoh konfigurasi .env dan instruksi menjalankan server."
 tags: ["Tools"]
 keywords: ["Golang", "camera capture", "Telegram Bot", "IP2Location", "web camera", "base64 image"]
-categories: ["tutorial", "security", "web"]
+categories: ["tutorial", "security", "web", "golang"]
 series: ["Golang Experiments"]
 ShowToc: true
 TocOpen: true
@@ -15,7 +15,9 @@ TocOpen: true
 ### Ringkasan
 Artikel ini menjelaskan cara membuat server sederhana menggunakan Golang yang menampilkan halaman landing sementara, meminta izin kamera dari pengguna (depan / belakang), menangkap foto, mengirim foto (base64 → bytes) dan data lokasi (diperoleh dari IP publik) ke Telegram. Setelah pengiriman selesai, pengguna diarahkan ke URL tujuan yang awalnya diberikan melalui query parameter `?url=`.
 
-*Catatan:* artikel ini untuk tujuan pembelajaran / eksperimen. Jangan gunakan untuk melanggar privasi atau hukum.
+**Catatan:** artikel ini untuk tujuan pembelajaran / eksperimen. Jangan gunakan untuk melanggar privasi atau hukum.
+
+**Source code:** [github](https://github.com/NunoRifa/Spy-With-Golang.git)
 
 ### Apa yang akan Anda pelajari
 - Struktur aplikasi backend Golang yang melayani HTML + JavaScript.
