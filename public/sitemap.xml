@@ -2,51 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://nunorifa.netlify.app/categories/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/posts/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/posts/setup-tools-penetration-testing/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/categories/syntax/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/tags/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/categories/themes/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/tags/tools/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.netlify.app/tags/web-blog/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://nunorifa.netlify.app/tags/web-profile/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://nunorifa.netlify.app/tags/web-static/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>https://nunorifa.netlify.app/posts/web_2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nunorifa.netlify.app/posts/web_3/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>https://nunorifa.netlify.app/posts/web_4/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-blog/</loc>
+    <loc>https://nunorifa.netlify.app/posts/web_5/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-profile/</loc>
+    <loc>https://nunorifa.netlify.app/posts/web_6/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-static/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/web_1/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/web_2/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/web_3/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/web_4/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/web_5/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/web_6/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://nunorifa.netlify.app/about/</loc>
   </url>
 </urlset>

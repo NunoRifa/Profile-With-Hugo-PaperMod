@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Nuno Rigo Fadilah</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://nunorifa.netlify.app/categories/</link>
     <description>Recent content in Categories on Nuno Rigo Fadilah</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <copyright>2025 Nuno Rigo Fadilah</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nunorifa.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/categories/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/syntax/</guid>
+      <link>https://nunorifa.netlify.app/categories/syntax/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.netlify.app/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/categories/themes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/themes/</guid>
+      <link>https://nunorifa.netlify.app/categories/themes/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.netlify.app/categories/themes/</guid>
       <description></description>
     </item>
   </channel>
