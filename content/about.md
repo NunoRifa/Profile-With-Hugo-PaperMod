@@ -1,15 +1,27 @@
 ---
 title: "Tentang Nuno Rigo Fadilah"
-FAtags: ["portofolio", "css", "html", "themes"]
-FAcategories: ["themes", "syntax"]
-FAseries: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
+FAtags: ["portofolio", "developer", "cybersecurity"]
+FAcategories: ["profile", "about"]
+FAseries: ["Personal Profile"]
+aliases: ["about", "tentang-saya"]
 ShowToc: true
 TocOpen: true
 ---
 
-Saya Nuno, seorang Web Developer sekaligus IT Support yang senang mengeksplorasi sisi teknis di balik sistem, khususnya dalam pengembangan web.
+Saya seorang Web Developer dan IT Support yang memiliki ketertarikan mendalam pada dunia sistem, dan keamanan siber.
 
-Dengan pengalaman membangun aplikasi menggunakan C#, ASP.NET, Svelte, dan Laravel, serta mengelola database MySQL dan SQL Server, saya terbiasa menciptakan solusi yang cepat, stabil, dan efisien.
+Selama beberapa tahun terakhir, saya telah membangun berbagai aplikasi berbasis web menggunakan C#, ASP.NET, Svelte, dan Laravel, serta mengelola database MySQL dan SQL Server untuk memastikan performa sistem yang stabil, cepat, dan efisien.
 
-Saat ini, saya sedang mempelajari Cybersecurity dan Penetration Testing untuk memperluas keahlian saya di dunia IT serta mempersiapkan transisi menuju peran sebagai Cybersecurity Specialist / Pentester.
+### Fokus & Keahlian
+Saya senang memadukan antara pengembangan dan keamanan sistem. Bagi saya, aplikasi yang baik bukan hanya berfungsi dengan benar, tetapi juga **aman, terukur, dan mudah dipelihara.**
+
+Beberapa bidang yang saya kuasai:
+- Pengembangan aplikasi web (Frontend & Backend)
+- Optimasi query
+- Automasi dan scripting
+- Dasar-dasar keamanan siber dan penetration testing
+
+### Perjalanan Saat Ini
+Saat ini, saya sedang **mendalami bidang Cybersecurity dan Penetration Testing** untuk memperluas wawasan saya di dunia keamanan informasi.
+
+Tujuan saya adalah bertransisi **menjadi seorang Cybersecurity Specialist atau Pentester** yang mampu melihat sistem tidak hanya dari sisi pengembang, tetapi juga dari sisi keamanan.
