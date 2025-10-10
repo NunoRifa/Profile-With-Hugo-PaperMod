@@ -51,19 +51,5 @@
       <guid>https://nunorifa.netlify.app/categories/python/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Syntax</title>
-      <link>https://nunorifa.netlify.app/categories/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://nunorifa.netlify.app/categories/themes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/categories/themes/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

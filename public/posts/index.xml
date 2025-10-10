@@ -30,26 +30,5 @@
       <guid>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</guid>
       <description>Tutorial membuat script Python untuk mengotomatisasi proses pengambilan token dari halaman web Samarinda Generator menggunakan metode HTTP POST dan regex parsing. Script ini mensimulasikan pengisian form HWID dan mengekstrak token dari respon HTML tanpa perlu interaksi browser.</description>
     </item>
-    <item>
-      <title>Website Profile 4</title>
-      <link>https://nunorifa.netlify.app/posts/web_4/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/web_4/</guid>
-      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Website Profile 5</title>
-      <link>https://nunorifa.netlify.app/posts/web_5/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/web_5/</guid>
-      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Website Profile 6</title>
-      <link>https://nunorifa.netlify.app/posts/web_6/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/web_6/</guid>
-      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
-    </item>
   </channel>
 </rss>
