@@ -12,24 +12,44 @@ ShowToc: true
 TocOpen: true
 ---
 
-### Download Workstation 17.5.2 Windows x86-64
-VMware Workstation adalah aplikasi virtualisasi yang memungkinkan Anda menjalankan satu atau beberapa sistem operasi tamu (guest OS) di atas sistem operasi host. Dalam konteks penetration testing, Workstation berguna untuk membuat lingkungan uji terisolasi, menjalankan mesin target, mesin pentester, atau lab eksperimen tanpa memengaruhi sistem utama.
+### Pendahuluan
+Menyiapkan workstation untuk penetration testing membutuhkan beberapa komponen inti: hypervisor/virtualizer yang stabil, image target yang realistis (mis. Windows), serta mesin serangan yang berisi tool pentest (mis. Kali Linux). Dokumen ini menyajikan tautan unduhan untuk beberapa komponen yang umum dipakai dalam lab pentesting pribadi—ditujukan untuk mempercepat setup lab uji tanpa harus mengonfigurasi semuanya dari nol.
 
+*Catatan penting:* semua berkas dan image yang dibagikan di sini digunakan untuk tujuan pembelajaran dan pengujian pada lingkungan yang Anda miliki izin untuk menguji. Jangan gunakan image atau tools ini untuk aktivitas ilegal. Selalu pastikan Anda memiliki persetujuan eksplisit sebelum melakukan pengujian terhadap sistem pihak ketiga.
+
+### Download: VMware Workstation 17.5.2 (Windows x86-64)
+VMware Workstation adalah aplikasi virtualisasi yang memungkinkan menjalankan beberapa sistem operasi tamu (guest OS) di dalam satu host. Untuk keperluan pentesting, Workstation berguna untuk mengisolasi target dan environment serangan sehingga tidak mengganggu host utama.
+
+Sumber unduhan:
 - [Download dari ln5.sync.com - link 1](https://ln5.sync.com/dl/a524d0280/fgbzw355-bzuq9n6t-yypf24kv-7rfsi8xu)
 - [Download dari drive.google.com - link 2](https://drive.google.com/file/d/1z0MXYPYIYoYJKp6NubzZ2zOXlFyjnMgQ/view?usp=sharing)
 
-### Download Windows MSEdge-Win10-VMware
-Image Windows MSEdge–Win10 adalah mesin virtual Windows yang telah dikonfigurasi sebelumnya (prebuilt) dan siap dipakai pada VMware. Image ini berguna untuk mensimulasikan target berplatform Windows, misalnya menguji exploit, kompatibilitas aplikasi, atau melakukan analisis forensik pada lingkungan yang menyerupai sistem pengguna nyata.
+*Tips:* setelah mengunduh, verifikasi checksum (jika tersedia) dan jalankan file di lingkungan terisolasi bila Anda ragu terhadap integritas berkas.
 
+### Download: Windows MSEdge–Win10 (VM image)
+Image Windows MSEdge–Win10 adalah mesin virtual Windows yang sudah dikonfigurasi cocok untuk mensimulasikan target Windows asli. Image prebuilt mempercepat pengujian exploit, kompatibilitas, maupun analisis forensik tanpa perlu memasang OS dari awal.
+
+Sumber unduhan:
 - [Download dari ln5.sync.com - link 1](https://ln5.sync.com/dl/69a8cb2b0/view/default/11829848200004?sync_id=0#k2xyv9ke-qevy6hgz-tavwxu3c-78858267)
 - [Download dari drive.google.com - link 2](https://drive.google.com/file/d/1-TIp1Jnj5avio3v_hpLiWrZgKXIDAZIU/view)
 
-### Download Metasploitable
-Metasploitable adalah mesin virtual yang sengaja dibuat rentan untuk tujuan pembelajaran dan pelatihan keamanan. Cocok dipakai untuk latihan exploitasi, pengujian kerentanan, dan praktek penggunaan framework seperti Metasploit tanpa risiko merusak sistem produksi.
+*Perhatian:* Pastikan lisensi dan ketentuan penggunaan image tersebut sesuai. Untuk pengujian yang lebih aman dan terjamin update, pertimbangkan menggunakan image resmi Microsoft yang disediakan untuk pengembang/pengetesan.
 
+### Download: Metasploitable (Lab Target Rentan)
+Metasploitable adalah VM yang sengaja dirancang rentan untuk keperluan latihan. Sangat cocok untuk belajar exploitasi, konfigurasi Metasploit, serta menguji teknik hardening setelah eksploitasi.
+
+Sumber unduhan:
 - [Download dari sourceforge.net- link 1](https://sourceforge.net/projects/metasploitable)
 
-### (Opsional) Download Kali Linux dari ZSecurity
-Kali Linux adalah distribusi Linux yang dipaketkan khusus untuk penetration testing dan forensik, berisi banyak tool keamanan populer (nmap, metasploit, john, dll.). Versi custom/patched dari ZSecurity menyediakan image yang telah disesuaikan atau dilengkapi, memudahkan setup awal untuk lab pentest. Gunakan versi resmi bila mengutamakan keaslian dan update keamanan.
+*Catatan:* gunakan Metasploitable hanya di jaringan terisolasi. Jangan sambungkan VM rentan ke jaringan produksi.
 
+### (Opsional) Kali Linux - versi custom dari ZSecurity
+Kali Linux adalah distribusi standar untuk penetration testing, berisi banyak alat populer (nmap, Metasploit, John, dll.). Ada versi yang dimodifikasi oleh pihak ketiga seperti ZSecurity yang menyediakan image dengan konfigurasi dan paket tambahan untuk kemudahan setup.
+
+Sumber unduhan:
 - [Download Kali Linux Patched ZSecurity](https://zsecurity.org/download-custom-kali)
+
+*Rekomendasi:* bila Anda mengutamakan keamanan dan update, gunakan versi resmi Kali dari [kali.org](https://www.kali.org/). Gunakan image custom hanya jika Anda mempercayai sumber dan memahami perubahan yang dilakukan.
+
+### Penutup
+Dokumen ini dirancang untuk membantu Anda *mempercepat pembuatan lab pentest*, mulai dari hypervisor (VMware Workstation), image target Windows, hingga mesin latihan rentan (Metasploitable) dan opsi Kali Linux. Gunakan tautan dengan bijak, dan selalu prioritaskan keamanan serta etika dalam setiap pengujian.

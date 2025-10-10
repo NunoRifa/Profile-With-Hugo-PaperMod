@@ -15,7 +15,7 @@ TocOpen: true
 ### Ringkasan
 Artikel ini menjelaskan cara membuat server sederhana menggunakan Golang yang menampilkan halaman landing sementara, meminta izin kamera dari pengguna (depan / belakang), menangkap foto, mengirim foto (base64 → bytes) dan data lokasi (diperoleh dari IP publik) ke Telegram. Setelah pengiriman selesai, pengguna diarahkan ke URL tujuan yang awalnya diberikan melalui query parameter `?url=`.
 
-Catatan: artikel ini untuk tujuan pembelajaran / eksperimen. Jangan gunakan untuk melanggar privasi atau hukum.
+*Catatan:* artikel ini untuk tujuan pembelajaran / eksperimen. Jangan gunakan untuk melanggar privasi atau hukum.
 
 ### Apa yang akan Anda pelajari
 - Struktur aplikasi backend Golang yang melayani HTML + JavaScript.
