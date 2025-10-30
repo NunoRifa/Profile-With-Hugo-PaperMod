@@ -124,6 +124,9 @@ dorktool -d "example.com" -u "?page=" -s 200 301 -n 50 -o result.txt --json
 - `--google-api-key` & `--cse-cx` → kredensial API CSE
 
 ### Contoh hasil output
+Hasil IMG:
+![Hasil Output](https://raw.githubusercontent.com/NunoRifa/Python-Dorking-Tools-CSE/refs/heads/master/images/img-dorking-tool-example-1.png)
+
 Hasil TXT:
 ```bash
 URL: https://target.example/?id=123
