@@ -8,9 +8,9 @@ ShowToc: true
 TocOpen: true
 ---
 
-Saya seorang Web Developer dan IT Support yang memiliki ketertarikan mendalam pada dunia sistem, dan keamanan siber.
+Saya seorang Web Developer yang memiliki ketertarikan pada dunia sistem, dan keamanan siber.
 
-Selama beberapa tahun terakhir, saya telah membangun berbagai aplikasi berbasis web menggunakan C#, ASP.NET, Svelte, dan Laravel, serta mengelola database MySQL dan SQL Server untuk memastikan performa sistem yang stabil, cepat, dan efisien.
+Selama beberapa tahun terakhir, saya membangun aplikasi berbasis web menggunakan C#, ASP.NET, Svelte, dan Laravel, serta mengelola database MySQL dan SQL Server untuk memastikan performa sistem yang stabil, cepat, dan efisien.
 
 **Fokus & Keahlian**
 
