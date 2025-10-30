@@ -5,7 +5,7 @@ title: "Membangun Server Capture Kamera dan Redirect Otomatis Menggunakan Golang
 description: "Tutorial membangun server Golang yang menampilkan landing page, meminta izin kamera, mengambil foto otomatis, memperoleh data lokasi dari IP publik, lalu mengirim foto + data ke Telegram Bot. Cocok untuk eksperimen teknis dan pembelajaran integrasi web–backend."
 summary: "Langkah demi langkah membuat server Golang yang mengambil foto pengguna lewat browser, mengonversi gambar base64, mengambil IP publik & lokasi via IP2Location, lalu mengirimkan foto dan data lokasi ke Telegram Bot. Termasuk contoh konfigurasi .env dan instruksi menjalankan server."
 tags: ["Tools"]
-keywords: ["Golang", "camera capture", "Telegram Bot", "IP2Location", "web camera", "base64 image"]
+keywords: ["golang", "camera capture", "telegram bot", "ip2location", "web camera", "base64 image"]
 categories: ["tutorial", "security", "web", "golang"]
 series: ["Golang Experiments"]
 ShowToc: true

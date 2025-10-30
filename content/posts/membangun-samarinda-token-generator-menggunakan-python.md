@@ -5,7 +5,7 @@ title: "Membangun Samarinda Token Generator Menggunakan Python"
 description: "Tutorial membuat script Python untuk mengotomatisasi proses pengambilan token dari halaman web Samarinda Generator menggunakan metode HTTP POST dan regex parsing. Script ini mensimulasikan pengisian form HWID dan mengekstrak token dari respon HTML tanpa perlu interaksi browser."
 summary: "Panduan membuat tool sederhana di Python yang mengirim permintaan POST ke server, memproses respon HTML yang berisi token, lalu menyalin hasil token ke clipboard. Cocok untuk pembelajaran automasi request–response dan parsing data dari web."
 tags: ["Tools"]
-keywords: ["Python", "web automation", "requests", "regex", "token generator"]
+keywords: ["python", "web automation", "requests", "regex", "token generator"]
 categories: ["tutorial", "automation", "python"]
 series: ["Python Experiments"]
 ShowToc: true

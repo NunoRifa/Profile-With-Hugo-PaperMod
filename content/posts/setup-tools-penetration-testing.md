@@ -5,7 +5,7 @@ title: "Setup Tools Penetration Testing"
 description: "Menyiapkan lingkungan kerja untuk penetration testing memerlukan kombinasi alat dan sistem yang tepat. Dalam panduan ini, Anda akan menemukan tautan unduhan untuk VMware Workstation 17.5.2, image Windows MSEdge–Win10 siap pakai untuk VMware, serta opsi Kali Linux yang telah dimodifikasi oleh ZSecurity. Semua disusun untuk mempermudah Anda membangun sistem uji keamanan yang stabil, aman, dan siap eksplorasi."
 summary: "Dokumen ini adalah panduan praktis untuk menyiapkan workstation pentesting. Pembaca diberikan dua sumber unduhan untuk VMware Workstation 17.5.2 (link Sync dan Google Drive) dan dua sumber untuk image Windows MSEdge–Win10 yang siap dipakai pada VMware. Sebagai tambahan terdapat opsi untuk mengunduh Kali Linux yang telah dimodifikasi dari ZSecurity."
 tags: ["Tools"]
-keywords: ["Tools", "Kali Linux", "VMware Workstation", "MSEdge–Win10"]
+keywords: ["tools", "kali linux", "vmware workstation", "MSEdge–Win10"]
 categories: ["tutorial", "security"]
 series: ["Setup Tools"]
 ShowToc: true
