@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <copyright>2025 Nuno Rigo Fadilah</copyright>
-    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nunorifa.netlify.app/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google CSE Dorking Tool - Web Surface Scanner</title>
+      <link>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</guid>
+      <description>Sharing ilmu membuat Google CSE Dorking Tool dengan Python mencakup instalasi, penggunaan CLI, pemeriksaan status HTTP paralel, ekspor hasil ke TXT/JSON, serta praktik keamanan dan etika. Kode lengkap tersedia di repository untuk eksperimen dan pembelajaran.</description>
+    </item>
     <item>
       <title>Setup Tools Penetration Testing</title>
       <link>https://nunorifa.netlify.app/posts/setup-tools-penetration-testing/</link>

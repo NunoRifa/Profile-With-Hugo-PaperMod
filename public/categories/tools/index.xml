@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Python on Nuno Rigo Fadilah</title>
-    <link>https://nunorifa.netlify.app/categories/python/</link>
-    <description>Recent content in Python on Nuno Rigo Fadilah</description>
+    <title>Tools on Nuno Rigo Fadilah</title>
+    <link>https://nunorifa.netlify.app/categories/tools/</link>
+    <description>Recent content in Tools on Nuno Rigo Fadilah</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <copyright>2025 Nuno Rigo Fadilah</copyright>
     <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nunorifa.netlify.app/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nunorifa.netlify.app/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google CSE Dorking Tool - Web Surface Scanner</title>
       <link>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</guid>
       <description>Sharing ilmu membuat Google CSE Dorking Tool dengan Python mencakup instalasi, penggunaan CLI, pemeriksaan status HTTP paralel, ekspor hasil ke TXT/JSON, serta praktik keamanan dan etika. Kode lengkap tersedia di repository untuk eksperimen dan pembelajaran.</description>
-    </item>
-    <item>
-      <title>Membangun Samarinda Token Generator Menggunakan Python</title>
-      <link>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</link>
-      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</guid>
-      <description>Tutorial membuat script Python untuk mengotomatisasi proses pengambilan token dari halaman web Samarinda Generator menggunakan metode HTTP POST dan regex parsing. Script ini mensimulasikan pengisian form HWID dan mengekstrak token dari respon HTML tanpa perlu interaksi browser.</description>
     </item>
   </channel>
 </rss>
