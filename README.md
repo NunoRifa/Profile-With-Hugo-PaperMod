@@ -49,7 +49,7 @@ Website ini secara otomatis di-deploy ke Netlify setiap kali ada perubahan di br
 Build command: hugo --gc --minify
 Publish directory: public
 ```
-🔗 Live Site: https://nunorifa.netlify.app/
+🔗 Live Site: https://nunorifa.my.id/
 
 ## 📝 Lisensi
 Proyek ini menggunakan tema PaperMod yang berlisensi MIT.
