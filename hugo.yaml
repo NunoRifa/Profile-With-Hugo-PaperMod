@@ -1,6 +1,11 @@
-baseURL: https://nunorifa.my.id/
-languageCode: en-us
-title: Nuno Rigo Fadilah
+﻿baseURL: https://nunorifa.my.id/
+languageCode: id-ID
+defaultContentLanguage: id
+languages:
+  id:
+    languageName: Indonesian
+    weight: 1
+title: Nuno Rigo Fadilah (Nuno Rifa)
 copyright: "© 2025 [Nuno Rigo Fadilah](https://github.com/nunorifa)"
 theme: "PaperMod"
 
@@ -19,7 +24,7 @@ minify:
 
 pagination:
   disableAliases: false
-  pagerSize: 5
+  pagerSize: 3
 
 outputs:
   home:
@@ -29,20 +34,30 @@ outputs:
 
 params:
   env: production
-  title: Nuno Rigo Fadilah
-  description: "Situs ini berisi informasi tentang saya. kebanyakan adalah dokumentasi untuk saya pribadi ketika sedang belajar atau membagikan sesuatu."
-  # author: Nuno Rigo Fadilah
-  keywords: [Blog, Portfolio, PaperMod]
-  
+  title: Nuno Rigo Fadilah (Nuno Rifa)
+  description: "Website resmi Nuno Rigo Fadilah (Nuno Rifa). Profil, pengalaman, artikel teknis, dan proyek cybersecurity serta software development."
+  author: Nuno Rigo Fadilah
+  keywords:
+    - Nuno Rigo Fadilah
+    - Nuno Rifa
+    - Nunorifa
+    - Profil Nuno Rigo Fadilah
+    - Website resmi Nuno Rigo Fadilah
+    - Portfolio Nuno Rifa
+    - Cybersecurity
+    - Software Developer
+
+  schema:
+    publisherType: Person
+    sameAs:
+      - https://github.com/nunorifa
+      - https://instagram.com/nuno.rifa_
+      - https://www.linkedin.com/in/nuno-rifa
+
   defaultTheme: auto
   displayFullLangName: true
-  # disableThemeToggle: true
-  # ShowReadingTime: true
-  # ShowShareButtons: true
   ShowPostNavLinks: true
-  # ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  # ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: true
@@ -58,8 +73,8 @@ params:
   hideSummary: false
 
   homeInfoParams:
-    Title: "Halo 👋, Saya Nuno"
-    Content: "Situs ini adalah catatan perjalanan saya dalam belajar dan bereksperimen. Sebagian besar berisi dokumentasi pribadi, tapi saya berharap beberapa di antaranya juga bisa membantu atau menginspirasi orang lain."
+    Title: "Halo 👋, Saya Nuno Rigo Fadilah (Nuno Rifa)"
+    Content: "Website resmi Nuno Rigo Fadilah, dikenal juga sebagai Nuno Rifa. Berisi profil, dokumentasi pembelajaran, dan artikel seputar web development serta cybersecurity."
 
   socialIcons:
     - name: "github"

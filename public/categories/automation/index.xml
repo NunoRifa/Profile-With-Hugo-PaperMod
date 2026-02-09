@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Automation on Nuno Rigo Fadilah</title>
-    <link>https://nunorifa.netlify.app/categories/automation/</link>
-    <description>Recent content in Automation on Nuno Rigo Fadilah</description>
+    <title>Automation on Nuno Rigo Fadilah (Nuno Rifa)</title>
+    <link>https://nunorifa.my.id/categories/automation/</link>
+    <description>Recent content in Automation on Nuno Rigo Fadilah (Nuno Rifa)</description>
     <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
+    <language>id</language>
     <copyright>2025 Nuno Rigo Fadilah</copyright>
-    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nunorifa.netlify.app/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nunorifa.my.id/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced SSL Health Monitoring Menggunakan n8n</title>
+      <link>https://nunorifa.my.id/posts/advanced-ssl-health-monitoring-menggunakan-n8n/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.my.id/posts/advanced-ssl-health-monitoring-menggunakan-n8n/</guid>
+      <description>Membangun sistem monitoring SSL tingkat lanjut menggunakan n8n untuk memeriksa masa berlaku sertifikat, protokol TLS, kerentanan keamanan, serta mengirimkan alert otomatis ke Telegram.</description>
+    </item>
     <item>
       <title>Membangun Samarinda Token Generator Menggunakan Python</title>
-      <link>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</link>
+      <link>https://nunorifa.my.id/posts/membangun-samarinda-token-generator-menggunakan-python/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</guid>
+      <guid>https://nunorifa.my.id/posts/membangun-samarinda-token-generator-menggunakan-python/</guid>
       <description>Tutorial membuat script Python untuk mengotomatisasi proses pengambilan token dari halaman web Samarinda Generator menggunakan metode HTTP POST dan regex parsing. Script ini mensimulasikan pengisian form HWID dan mengekstrak token dari respon HTML tanpa perlu interaksi browser.</description>
     </item>
   </channel>

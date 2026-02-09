@@ -2,54 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nunorifa.netlify.app/categories/</loc>
+    <loc>https://nunorifa.my.id/categories/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/categories/devops/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/golang/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/posts/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/categories/security/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/security/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/posts/ssl-checker-dan-tls-analyzer-menggunakan-golang/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/tools/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/categories/tutorial/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/posts/advanced-ssl-health-monitoring-menggunakan-n8n/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/categories/automation/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/automation/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/posts/google-cse-dorking-tool-web-surface-scanner/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</loc>
+    <loc>https://nunorifa.my.id/categories/python/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/</loc>
+    <loc>https://nunorifa.my.id/categories/tools/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/posts/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/categories/python/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/categories/security/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/tags/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/categories/tools/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/tags/tools/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/categories/tutorial/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/posts/setup-tools-penetration-testing/</loc>
+    <loc>https://nunorifa.my.id/posts/setup-tools-penetration-testing/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/categories/golang/</loc>
+    <loc>https://nunorifa.my.id/categories/about/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/cybersecurity/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/developer/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/tags/portofolio/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/categories/profile/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/about/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nunorifa.my.id/categories/golang/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</loc>
+    <loc>https://nunorifa.my.id/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/categories/web/</loc>
+    <loc>https://nunorifa.my.id/categories/web/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nunorifa.netlify.app/categories/automation/</loc>
+    <loc>https://nunorifa.my.id/posts/membangun-samarinda-token-generator-menggunakan-python/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nunorifa.netlify.app/about/</loc>
   </url>
 </urlset>

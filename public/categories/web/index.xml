@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Web on Nuno Rigo Fadilah</title>
-    <link>https://nunorifa.netlify.app/categories/web/</link>
-    <description>Recent content in Web on Nuno Rigo Fadilah</description>
+    <title>Web on Nuno Rigo Fadilah (Nuno Rifa)</title>
+    <link>https://nunorifa.my.id/categories/web/</link>
+    <description>Recent content in Web on Nuno Rigo Fadilah (Nuno Rifa)</description>
     <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
+    <language>id</language>
     <copyright>2025 Nuno Rigo Fadilah</copyright>
     <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nunorifa.netlify.app/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nunorifa.my.id/categories/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Membangun Server Capture Kamera dan Redirect Otomatis Menggunakan Golang</title>
-      <link>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</link>
+      <link>https://nunorifa.my.id/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</guid>
+      <guid>https://nunorifa.my.id/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</guid>
       <description>Tutorial membangun server Golang yang menampilkan landing page, meminta izin kamera, mengambil foto otomatis, memperoleh data lokasi dari IP publik, lalu mengirim foto &#43; data ke Telegram Bot. Cocok untuk eksperimen teknis dan pembelajaran integrasi web–backend.</description>
     </item>
   </channel>

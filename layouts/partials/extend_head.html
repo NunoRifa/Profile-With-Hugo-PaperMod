@@ -1,0 +1,28 @@
+﻿{{- if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Nuno Rigo Fadilah (Nuno Rifa)",
+  "alternateName": "Nuno Rifa",
+  "url": "{{ site.Home.Permalink }}",
+  "inLanguage": "id-ID"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nuno Rigo Fadilah",
+  "alternateName": ["Nuno Rifa", "Nunorifa"],
+  "url": "{{ site.Home.Permalink }}",
+  "sameAs": [
+    "https://github.com/nunorifa",
+    "https://instagram.com/nuno.rifa_",
+    "https://www.linkedin.com/in/nuno-rifa"
+  ],
+  "jobTitle": "Web Developer",
+  "knowsAbout": ["Web Development", "Cybersecurity", "Penetration Testing"]
+}
+</script>
+{{- end -}}

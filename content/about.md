@@ -1,14 +1,23 @@
----
-title: "Tentang Nuno Rigo Fadilah"
-FAtags: ["portofolio", "developer", "cybersecurity"]
-FAcategories: ["profile", "about"]
-FAseries: ["Personal Profile"]
-aliases: ["about", "tentang-saya"]
+﻿---
+title: "Tentang Nuno Rigo Fadilah (Nuno Rifa)"
+description: "Profil resmi Nuno Rigo Fadilah (Nuno Rifa), Web Developer yang fokus pada cybersecurity dan software engineering."
+keywords:
+  - Nuno Rigo Fadilah
+  - Nuno Rifa
+  - Profil Nuno Rigo Fadilah
+  - Tentang Nuno Rifa
+tags: ["portofolio", "developer", "cybersecurity"]
+categories: ["profile", "about"]
+series: ["Personal Profile"]
+aliases: ["about", "tentang-saya", "nuno-rigo-fadilah", "nuno-rifa"]
+date: 2025-10-08
+publishDate: 2025-10-08
+lastmod: 2026-02-09
 ShowToc: true
 TocOpen: true
 ---
 
-Saya seorang Web Developer yang memiliki ketertarikan pada dunia sistem, dan keamanan siber.
+Saya **Nuno Rigo Fadilah**, juga dikenal sebagai **Nuno Rifa**. Saya seorang Web Developer yang memiliki ketertarikan kuat pada dunia sistem dan keamanan siber.
 
 Selama beberapa tahun terakhir, saya membangun aplikasi berbasis web menggunakan C#, ASP.NET, Svelte, dan Laravel, serta mengelola database MySQL dan SQL Server untuk memastikan performa sistem yang stabil, cepat, dan efisien.
 

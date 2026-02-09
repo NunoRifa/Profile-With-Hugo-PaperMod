@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Nuno Rigo Fadilah</title>
-    <link>https://nunorifa.netlify.app/posts/</link>
-    <description>Recent content in Posts on Nuno Rigo Fadilah</description>
+    <title>Posts on Nuno Rigo Fadilah (Nuno Rifa)</title>
+    <link>https://nunorifa.my.id/posts/</link>
+    <description>Recent content in Posts on Nuno Rigo Fadilah (Nuno Rifa)</description>
     <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
+    <language>id</language>
     <copyright>2025 Nuno Rigo Fadilah</copyright>
-    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nunorifa.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nunorifa.my.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSL Checker &amp; TLS Analyzer Menggunakan Golang</title>
+      <link>https://nunorifa.my.id/posts/ssl-checker-dan-tls-analyzer-menggunakan-golang/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.my.id/posts/ssl-checker-dan-tls-analyzer-menggunakan-golang/</guid>
+      <description>Membangun tools SSL Checker berbasis Golang untuk menganalisis sertifikat SSL/TLS, masa berlaku, protocol support, serta validasi keamanan secara cepat dan efisien.</description>
+    </item>
+    <item>
+      <title>Advanced SSL Health Monitoring Menggunakan n8n</title>
+      <link>https://nunorifa.my.id/posts/advanced-ssl-health-monitoring-menggunakan-n8n/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nunorifa.my.id/posts/advanced-ssl-health-monitoring-menggunakan-n8n/</guid>
+      <description>Membangun sistem monitoring SSL tingkat lanjut menggunakan n8n untuk memeriksa masa berlaku sertifikat, protokol TLS, kerentanan keamanan, serta mengirimkan alert otomatis ke Telegram.</description>
+    </item>
     <item>
       <title>Google CSE Dorking Tool - Web Surface Scanner</title>
-      <link>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</link>
+      <link>https://nunorifa.my.id/posts/google-cse-dorking-tool-web-surface-scanner/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/google-cse-dorking-tool-web-surface-scanner/</guid>
+      <guid>https://nunorifa.my.id/posts/google-cse-dorking-tool-web-surface-scanner/</guid>
       <description>Sharing ilmu membuat Google CSE Dorking Tool dengan Python mencakup instalasi, penggunaan CLI, pemeriksaan status HTTP paralel, ekspor hasil ke TXT/JSON, serta praktik keamanan dan etika. Kode lengkap tersedia di repository untuk eksperimen dan pembelajaran.</description>
     </item>
     <item>
       <title>Setup Tools Penetration Testing</title>
-      <link>https://nunorifa.netlify.app/posts/setup-tools-penetration-testing/</link>
+      <link>https://nunorifa.my.id/posts/setup-tools-penetration-testing/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/setup-tools-penetration-testing/</guid>
+      <guid>https://nunorifa.my.id/posts/setup-tools-penetration-testing/</guid>
       <description>Menyiapkan lingkungan kerja untuk penetration testing memerlukan kombinasi alat dan sistem yang tepat. Dalam panduan ini, Anda akan menemukan tautan unduhan untuk VMware Workstation 17.5.2, image Windows MSEdge–Win10 siap pakai untuk VMware, serta opsi Kali Linux yang telah dimodifikasi oleh ZSecurity. Semua disusun untuk mempermudah Anda membangun sistem uji keamanan yang stabil, aman, dan siap eksplorasi.</description>
     </item>
     <item>
       <title>Membangun Server Capture Kamera dan Redirect Otomatis Menggunakan Golang</title>
-      <link>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</link>
+      <link>https://nunorifa.my.id/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</guid>
+      <guid>https://nunorifa.my.id/posts/membangun-server-capture-kamera-dan-redirect-otomatis-menggunakan-golang/</guid>
       <description>Tutorial membangun server Golang yang menampilkan landing page, meminta izin kamera, mengambil foto otomatis, memperoleh data lokasi dari IP publik, lalu mengirim foto &#43; data ke Telegram Bot. Cocok untuk eksperimen teknis dan pembelajaran integrasi web–backend.</description>
     </item>
     <item>
       <title>Membangun Samarinda Token Generator Menggunakan Python</title>
-      <link>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</link>
+      <link>https://nunorifa.my.id/posts/membangun-samarinda-token-generator-menggunakan-python/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://nunorifa.netlify.app/posts/membangun-samarinda-token-generator-menggunakan-python/</guid>
+      <guid>https://nunorifa.my.id/posts/membangun-samarinda-token-generator-menggunakan-python/</guid>
       <description>Tutorial membuat script Python untuk mengotomatisasi proses pengambilan token dari halaman web Samarinda Generator menggunakan metode HTTP POST dan regex parsing. Script ini mensimulasikan pengisian form HWID dan mengekstrak token dari respon HTML tanpa perlu interaksi browser.</description>
     </item>
   </channel>
