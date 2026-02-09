@@ -10,7 +10,9 @@ copyright: "© 2025 [Nuno Rigo Fadilah](https://github.com/nunorifa)"
 theme: "PaperMod"
 
 enableInlineShortcodes: true
-enableRobotsTXT: true
+enableRobotsTXT: false
+canonifyURLs: true
+relativeURLs: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
