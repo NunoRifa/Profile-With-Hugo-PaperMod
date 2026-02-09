@@ -4,4 +4,4 @@ Disallow:
 {{- else }}
 Disallow: /
 {{- end }}
-Sitemap: https://nunorifa.my.id/sitemap.xml
+Sitemap: {{ "sitemap.xml" | absURL }}
